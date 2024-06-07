@@ -1,6 +1,6 @@
-# MotoRental App
+# Mootour App
 
-Bem-vindo ao projeto MotoRental App! Este aplicativo foi criado utilizando React Native e tem como objetivo facilitar o aluguel de motos. Atualmente, o projeto inclui a tela inicial e a tela de login, mas pretendemos adicionar muitas outras funcionalidades no futuro.
+Bem-vindo ao projeto Mootour App! Este aplicativo foi criado utilizando React Native e tem como objetivo facilitar o aluguel de motos. Atualmente, o projeto inclui a tela inicial e a tela de login, mas pretendemos adicionar muitas outras funcionalidades no futuro.
 
 ## Índice
 
@@ -21,7 +21,7 @@ O MotoRental App visa proporcionar uma maneira fácil e rápida de alugar motos.
 
 ## Tecnologias Utilizadas
 
-O projeto MotoRental App foi desenvolvido utilizando as seguintes tecnologias:
+O projeto Mootour App foi desenvolvido utilizando as seguintes tecnologias:
 
 - **React Native**: Framework para desenvolvimento de aplicativos móveis multiplataforma.
 - **Expo**: Plataforma e conjunto de ferramentas para desenvolvimento em React Native.
@@ -32,7 +32,7 @@ O projeto MotoRental App foi desenvolvido utilizando as seguintes tecnologias:
 
 ### Tela Inicial
 
-A tela inicial do MotoRental App serve como ponto de entrada para os usuários. Ela apresenta o nome do aplicativo e fornece acesso à tela de login.
+A tela inicial do Mootour App serve como ponto de entrada para os usuários. Ela apresenta o nome do aplicativo e fornece acesso à tela de login.
 
 ### Tela de Login
 
@@ -45,8 +45,8 @@ Para configurar o projeto localmente, siga os passos abaixo:
 1. **Clone o repositório**:
 
     ```bash
-    git clone https://github.com/usuario/motorental-app.git
-    cd motorental-app
+    git clone https://github.com/usuario/aluguelMoto.git
+    cd aluguelMoto
     ```
 
 2. **Instale as dependências**:
@@ -91,10 +91,6 @@ Aqui estão algumas referências úteis que foram utilizadas no desenvolvimento 
 - [Guia de Estilo do JavaScript](https://github.com/airbnb/javascript)
 - [Comunidade do React Native no Stack Overflow](https://stackoverflow.com/questions/tagged/react-native)
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
-Esperamos que você goste de usar o MotoRental App tanto quanto gostamos de desenvolvê-lo. Se você tiver alguma dúvida ou sugestão, não hesite em nos contactar. Boa viagem!
+Esperamos que você goste de usar o Mootour App tanto quanto gostamos de desenvolvê-lo. Se você tiver alguma dúvida ou sugestão, não hesite em nos contactar. Boa viagem!
