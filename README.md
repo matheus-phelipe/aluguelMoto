@@ -14,7 +14,7 @@ Bem-vindo ao projeto Mootour App! Este aplicativo foi criado utilizando React Na
 
 ## Visão Geral
 
-O MotoRental App visa proporcionar uma maneira fácil e rápida de alugar motos. O aplicativo permitirá que usuários procurem motos disponíveis, visualizem detalhes das motos, façam reservas e acompanhem suas locações. Atualmente, o projeto está em fase inicial de desenvolvimento com as seguintes telas implementadas:
+O Mootour App visa proporcionar uma maneira fácil e rápida de alugar motos. O aplicativo permitirá que usuários procurem motos disponíveis, visualizem detalhes das motos, façam reservas e acompanhem suas locações. Atualmente, o projeto está em fase inicial de desenvolvimento com as seguintes telas implementadas:
 
 - **Tela Inicial**: Apresenta uma visão geral do aplicativo.
 - **Tela de Login**: Permite que os usuários façam login em suas contas.
